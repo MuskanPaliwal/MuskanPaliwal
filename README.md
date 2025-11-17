@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Hi, I’m Muskan Paliwal.  I'm a software engineer working in Rust to build high-performance tooling that helps developers ship faster and better.
 
 <!--
 **MuskanPaliwal/MuskanPaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
