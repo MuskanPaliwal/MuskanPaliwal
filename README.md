@@ -1,4 +1,4 @@
-Hi, I’m Muskan Paliwal. I’m a software engineer with an ick for systems to build high-performance tooling that helps developers ship faster and better.
+Hi, I’m Muskan Paliwal. I’m a software engineer with an itch for systems to build high-performance tooling that helps developers ship faster and better.
 
 #### Projects I loved working on  
 - [Vibinex](https://vibinex.com): GitHub extension that accelerates code reviews using syntactic DiffGraphs, git-blame based relevance scoring, and automated code-owner routing. [Source code](https://github.com/vibinex/vibinex)  
