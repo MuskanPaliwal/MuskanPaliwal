@@ -1,4 +1,4 @@
-Hi, I’m Muskan Paliwal. I’m a software engineer working in Rust to build high-performance tooling that helps developers ship faster and better.
+Hi, I’m Muskan Paliwal. I’m a software engineer with an ick for systems to build high-performance tooling that helps developers ship faster and better.
 
 #### Projects I loved working on  
 - [Vibinex](https://vibinex.com): GitHub extension that accelerates code reviews using syntactic DiffGraphs, git-blame based relevance scoring, and automated code-owner routing. [Source code](https://github.com/vibinex/vibinex)  
@@ -8,7 +8,7 @@ Hi, I’m Muskan Paliwal. I’m a software engineer working in Rust to build hig
 #### Highlight of 2025  
 - EuroRust 2025 Speaker: [Production Unsafe Rust](https://youtu.be/lBGrl_eZ2k0?si=Zw83R25T_-R1KGFg)
 
-I’m open to work and currently looking for backend or Rust-heavy engineering roles. If you find my profile interesting, feel free to reach out at muskan10112002@gmail.com. Thanks!
+I’m open to work and currently looking for backend or systems-heavy engineering roles. If you find my profile interesting, feel free to reach out at muskan10112002@gmail.com. Thanks!
 
 
 
